@@ -21,6 +21,6 @@ html {
   border-color: darkgreen;
 }
 
-.btn-ghost {
+.btn-ghost:hover {
   background-color: transparent;
 }
